@@ -11,5 +11,6 @@ Run build.sh from the console and unpacked extension will be available in ./exte
 * yarn
 * bash, sh
 * google chrome or compatible browser
+* Collectie 1.5.0+ 
 ## Why it is open source?
 Our customer should know that his data does not flow away from his computer.

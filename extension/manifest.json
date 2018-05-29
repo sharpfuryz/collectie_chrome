@@ -1,0 +1,19 @@
+{
+  "name": "Collectie chrome extension",
+  "version": "1.0",
+  "description": "Imports current page to moodboard",
+  "manifest_version": 2,
+  "permissions": [
+    "tabs",
+    "wss://*/"
+  ],
+  "browser_action": {
+    "name": "Click to add this page to Collectie as bookmark",
+    "default_popup": "popup.html" 
+  },
+  "icons": { 
+    "16": "icon16.png",
+    "48": "icon48.png",
+   "128": "icon128.png" 
+  }
+}

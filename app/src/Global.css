@@ -1,0 +1,11 @@
+html {
+  width: 350px;
+  height: 300px;
+  margin: 0 0 0 0;
+  padding: 15px;
+  box-sizing: border-box;
+}
+body {
+  width: 350px !important;
+  margin: 0 auto;
+}
